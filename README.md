@@ -3,7 +3,6 @@
 
 - 🔭 Hoje trabalho com automação industrial
 - 🌱 Estou estudando node, react.js e typescript
-- ⚡ Buzzitos is my nickname
 
 <div align="center">
   <a href="https://github.com/buzzitos">
